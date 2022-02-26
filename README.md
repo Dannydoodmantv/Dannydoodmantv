@@ -1,4 +1,9 @@
-### Hi there 👋
+# Dannydoodmantv
+
+Welcome to my profile! I am a amateur developer! Hope you will like my work
+
+
+[![Dannydoodmantv](https://github-readme-stats.vercel.app/api?username=Dannydoodmantv&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dannydoodmantv/Dannydoodmantv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
